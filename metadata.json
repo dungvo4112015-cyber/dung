@@ -1,0 +1,6 @@
+{
+  "name": "AcroMinimal - 3D Parkour",
+  "description": "Trò chơi parkour 3D phong cách tối giản: chạy đà, leo tường, trượt dốc và vượt chướng ngại vật mượt mà.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
